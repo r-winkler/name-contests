@@ -1,3 +1,3 @@
-Clone repo then checkout a branch to start
+GraphQL express app getting data from Postgres and Mongo.
 
-For questions: [slack.jscomplete.com](http://slack.jscomplete.com/)
+=> Checkout a branch to start
