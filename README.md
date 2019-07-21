@@ -8,4 +8,4 @@ Shows how to:
 * avoid n+1 problems with dataloader
 
 
-=> Checkout a branch to start
+=> Checkout a branch to start (select 'last' branch for finsished app)
